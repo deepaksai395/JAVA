@@ -1,1 +1,10 @@
+Questions:
+1. Create a class named as normal calculator that belong to package P1. The class have two methods- addition and subtraction that performs 
+   addition and subtraction of two integers. Then again create a class named SciCal that belong to package P2 which provides two more 
+   methods i.e. division and multiplication of two integers. Using the above class create a class M1 in package P3 that performs arithmetic 
+   operations depending upon user's choice.
+   NOTE-Use the concept of variable as an argument in all methods and constructors.
+  
+2. WAJP to show the use of final keyword with respect to variables, methods and classes separately.
 
+3. WAJP to test access specifiers with respect to packages.
