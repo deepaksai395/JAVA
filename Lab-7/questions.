@@ -1,0 +1,5 @@
+1) Create a class Ammount in a package as p1 for the conversion of given or provided amount in words. Consider the amont to be not more than 1 lakh. Write a main class to test this package.
+2)transpose a matrix using array copy command.
+
+3) WAP to check wether a string is palindrome or not
+4) WAP with enum constant having inner class
